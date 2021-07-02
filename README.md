@@ -1,0 +1,13 @@
+- 👋 Hi! I'm Roberto Lozano, a recent computer science graduate from UC Davis.
+- 👀 I’m very passionate about web development and creating web apps.
+- 💪 I have lots of experience in
+  -HTML
+  -CSS
+  -Javascript
+  -Node/Express
+  -Firebase
+  -Websockets
+  -React
+  -Typescript
+- 🌱 I’m currently working on further improving my React skills.
+- 📫 You can reach me at my email rlozano@ucdavis.edu
