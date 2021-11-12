@@ -9,5 +9,5 @@
   -Firebase  
   -Websockets  
   -Typescript  
-- 🌱 I’m currently working on React SPA
+- 🌱 I’m currently working on React SPAs
 - 📫 You can reach me at my email rlozano@ucdavis.edu or on LinkedIn: https://www.linkedin.com/in/roberto-lozano-272503163/
