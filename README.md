@@ -1,6 +1,6 @@
 - 👋 Hi! I'm Roberto Lozano, a recent computer science graduate from UC Davis.
 - 👀 I’m very passionate about web development and creating web apps.
-- 💪 I have lots of experience in
+- 💪 I have lots of experience in  
   -React  
   -MobX  
   -Material UI  
