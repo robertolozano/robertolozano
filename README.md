@@ -11,6 +11,12 @@
     - WebSockets
   
 - 🌱 I’m currently exploring my latest venture: Machine Learning / Deep Learning!
+    - I've had experience with:
+        - PLA's, SVM's, KNN, CNN, Ensemble, and K-Means Models
+        - Implemented Dimension Reduction Methods such as PCA/LDA
+        - Gained experience hyperparameter tuning to find the best fit
+        - Preprocessing a dataset to reduce noise and keep the best features for seperability
+                  
     - I've worked on a face classification project that can accurately classify face images!
     - Currently working on a real-life Pokedex that will utilize a
   
