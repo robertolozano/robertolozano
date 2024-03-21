@@ -10,4 +10,5 @@
   -Websockets  
   -Typescript  
 - 🌱 I’m currently working on React SPAs
-- 📫 You can reach me at my email rlozano2@scu.edu or on LinkedIn: https://www.linkedin.com/in/roberto-lozano-272503163/
+- 📫 You can reach me at my email rlozano2@scu.edu or on LinkedIn: linkedin.com/in/r-lozano
+
